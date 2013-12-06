@@ -1,6 +1,6 @@
 # You Are An Idiot
 
-[See the thing](rodneyrehm.github.io/you-are-an-idiot/)
+[See the thing](http://rodneyrehm.github.io/you-are-an-idiot/)
 
 I'd ask you not to be offended by the title, but I guess the whole point of this thing is to "offend". *I'll* only use this in humorous ways - I hope you will, too.
 
